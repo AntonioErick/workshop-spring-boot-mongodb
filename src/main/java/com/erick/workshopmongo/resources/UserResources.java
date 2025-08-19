@@ -1,7 +1,6 @@
 package com.erick.workshopmongo.resources;
 
 import java.util.List;
-import java.util.Arrays;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.RequestMapping;
